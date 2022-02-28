@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Very sad and bloody nevves from Ireland, of the losse of Bunratty in Munster, and Roscmon in Connaught. Where the rebels put to the sword, Sir Charles Coot his brother, L. Colonel Mac-Adams, and many gallant Englishmen, and the particulas [sic] thereof. As also, letters from the officers of the Scottish army, and their desires to the Committee of both Kingdomes. These are examined, and printed and published according to order of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92631</idno>
+            <idno type="STC">Wing S140</idno>
+            <idno type="STC">Thomason E346_5</idno>
+            <idno type="STC">ESTC R201002</idno>
+            <idno type="EEBO-CITATION">99861596</idno>
+            <idno type="PROQUEST">99861596</idno>
+            <idno type="VID">159807</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92631)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159807)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E346[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Very sad and bloody nevves from Ireland, of the losse of Bunratty in Munster, and Roscmon in Connaught. Where the rebels put to the sword, Sir Charles Coot his brother, L. Colonel Mac-Adams, and many gallant Englishmen, and the particulas [sic] thereof. As also, letters from the officers of the Scottish army, and their desires to the Committee of both Kingdomes. These are examined, and printed and published according to order of Parliament.</title>
+                  <author>R. S.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Jane Coe.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of two letters, the second of which is signed at end: R.S.</note>
+                  <note>Annotation on Thomason copy: "July 30th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Army --  History --  Early works to 1800.</term>
+               <term>Bunratty Castle (Ireland) --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Roscommon (Ireland) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159807:1" rendition="simple:additions"/>
+            <p>Very ſad and BLOODY NEVVES FROM IRELAND, Of the loſſe of BUNRATTY in MUNSTER, and ROSCOMON in CONNAUGHT.</p>
+            <p>Where the Rebels put to the Sword, Sir <hi>Charles Coot</hi> his brother, L. Colonel
+<hi>Mac-Adams,</hi> and many gallant <hi>Engliſhmen,</hi> and the particulas thereof.</p>
+            <p>
+               <hi>AS ALSO,</hi> Letters from the Officers of the Scottiſh Army, and their deſires to the Committee of both Kingdomes.</p>
+            <p>
+               <hi>Theſe are Examined, and printed and publiſhed according to</hi> ORDER <hi>of</hi> PARLIAMENT.</p>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>Jane Coe.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:159807:2"/>
+            <pb n="1" facs="tcp:159807:2"/>
+            <div type="letter">
+               <head>THE Copie of a Letter from the Officers of the Scottiſh Army, in IRELAND, to the Committee of both Kingdomes.</head>
+               <opener>
+                  <salute>Our moſt noble Lords,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">W</seg>Ith the laſt Gentlemen ſent from this Ar<g ref="char:EOLhyphen"/>my, your Lordſhips were made a quain<g ref="char:EOLhyphen"/>ted with the miſerable condition wee have ever beene in ſince our comming to <hi>Ireland,</hi> yet hitherto we have ſeen noap<g ref="char:EOLhyphen"/>pearance of wayes taken for our ſupply, which your Lordſhips may conceive is no ſmall diſ<g ref="char:EOLhyphen"/>couragement to this Armyd that God having put the affayre of
+<hi>England</hi> in ſuch a good poſture, that with<g ref="char:EOLhyphen"/>out hurting or hindering the p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſecution of you Wars at home, we might have beene furniſhed with at leaſt as much ſuſtenance as your Lordſhips would have al<g ref="char:EOLhyphen"/>lowed Captives. Our miſerie is ſo great, if neceſſitie did not comp<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll us, we are aſhamed to ſhow that vnder ſuch a mighty Eſtate ſo many gentlemen notwithſtan<g ref="char:EOLhyphen"/>ding o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our Treatie, which encouraged our over com<g ref="char:EOLhyphen"/>ming to this deſolate Land, ſhould ſtarve for l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cke of Bread divers times, hath made us goe abroad to haz<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd
+<pb n="2" facs="tcp:159807:3"/> the buying of it with our blood, but our enemies were ſo well acquainted with the ſhortneſſe of our entertain<g ref="char:EOLunhyphen"/>ment, that a little wayes flying, put them without out reach, ſo that the very ſame neceſſity of proviſion made vs returne without effectuating any thing according to your Lordſhips expectations or our deſires. Our Offi<g ref="char:EOLhyphen"/>cers theſe ſixteene Moneths have had nothing either from <hi>England</hi> or <hi>Scotland,</hi> Our Souldiers have had but an Engliſh pound and an halfe of mea'e a day, which is ſo vnreaſonable maintenance, as the effects of the laſt conflict wee had, did teſtifie after wee had above three houres diſpute with ſhot for the Victory, yet when our bodies joyned, wee ſenſibly found the weakeneſſe of men, our patience is now almoſt expired, our miſery a<g ref="char:EOLhyphen"/>ny longer vnſupportable. That if preſent ſupply be not ſent us, we muſt ruine, and your Lordſhips hazard the loſing of a Kingdome, If your Lordſhips have no inten<g ref="char:EOLhyphen"/>tion for keeping us longer in your ſervice, according to the cuſtome of Armies, we deſire our accompts may be cleared, and we for our by-runne ſervice contented, And wee ſhall in every thing ſhow our ſelves loyall Subjects, true Patriots, and</p>
+               <closer>
+                  <signed>Your Lordſhips moſt humble ſervants. Subſcribed by the Officers of the
+<hi>Scottiſh</hi> Army in <hi>Ireland.</hi>
+                  </signed>
+                  <dateline>From <hi>Belfeſt</hi>
+                     <date>
+                        <hi>dd.</hi> the 24. <hi>July,</hi> 1646</date>
+                  </dateline>
+                  <signed>
+                     <hi>For the Committee of both Kingdomes as</hi> London.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="3" facs="tcp:159807:3"/>
+               <head>A Letter from <hi>D<g ref="char:V">Ʋ</g>BLJN,</hi> of the ſad Newes from <hi>JRELAND,</hi> of the Rebels Bloody actions in taking <hi>Bunratty</hi> and <hi>Raſco<g ref="char:EOLhyphen"/>mount.</hi>
+               </head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">W</seg>Ee have very ſad New's come hither both out of <hi>Mun<g ref="char:EOLhyphen"/>ſter</hi> and alſo out of
+<hi>Conought,</hi> the per<g ref="char:EOLhyphen"/>ticulers whereof I thought fit to ac<g ref="char:EOLhyphen"/>quaint you with; which in briefe is thus, (I know you are fully ſatiſfied of th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> good ſucceſſe that Sir <hi>Charles Coote</hi> had in <hi>Conought</hi> the firſt of June, againſt Preſton, there<g ref="char:EOLhyphen"/>fore
+<pb n="4" facs="tcp:159807:4"/> I ſhall not ſay any thing of that now, but ac<g ref="char:EOLhyphen"/>quaint you with the il ſucceſſe we have had ſince.) Generall <hi>Preſton</hi> having rallied his men, and ga<g ref="char:EOLhyphen"/>thered a great Body, in
+<hi>Connought,</hi> vowing re<g ref="char:EOLhyphen"/>venge for that great loſſe he then had had by Sir <hi>Charles Coot</hi> which indeed was a very great defeat w<hi rend="sup">ch</hi> was given to the Rebels at that time;
+<hi>Preſton</hi> with moſt deſperate Rebels of the Iriſh Papiſts, came againſt the Lord
+<hi>Raughnelaghs</hi> Houſe in <hi>Connought,</hi> called <hi>Roſcomon;</hi> which ſiege was made very ſtrong, and in which place was Sir <hi>Charles Cootes</hi> his brother, and many other very gallant men, who held it out ſo long as they could by force, the enemy loſing many men; but being over-power'd <hi>Preſton</hi> hath taken the place, and all the men at mercy, and the cruell bloody Rebels put many of them (ſome ſay all or moſt part of them) to the Sword, in a moſt cruell and barba<g ref="char:EOLhyphen"/>rous manner, Sir <hi>Charles Cootes</hi> his brother is ſlaine (for ought wee can heare) and divers gal<g ref="char:EOLhyphen"/>lant men beſides: They have taken all the Armes and Ammunition, wh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch is very ſad and grievous to the proteſtants in thoſe parts, and ſhould be to you in <hi>England;</hi> for our deſtruction doth make way for yours.</p>
+               <p>And as for the Rebels in <hi>Munſter,</hi> they get much upo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, becauſe no reliefe hath been ſent to them: We hoped that when the Lord <hi>Too<g ref="char:EOLhyphen"/>mount</hi> delivered up thoſe Garriſons, hee brought in t<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the power of the King and Parliament, that wee had gained m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch upon <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Rebels, and the
+<pb n="5" facs="tcp:159807:4"/> Rebels themſelves were ſo ſenſible of it, that they raiſed what power they could under the com<g ref="char:EOLhyphen"/>mand of Generall <hi>Muſgrave;</hi> and immediatly beſiged <hi>Bunratti</hi> in
+<hi>Toomount</hi> in the County of <hi>Clare,</hi> in <hi>Munſter,</hi> where they have lain theſe 3 Moneths, where that gallant active godly Gen<g ref="char:EOLhyphen"/>tleman, Sir <hi>Arthur Loſtus</hi> hath uſed all the meanes hee could for their reliefe, and left his Lieutenant Colonell
+<hi>Mac-Adams</hi> to keep it whilſt himſelfe came in perſon to get reliefe, the ene<g ref="char:EOLhyphen"/>my being many times beaten off with loſſe, and yet no reliefe could be procured in all theſe three Moneths, yet they ſtill held out to the uttermoſt, hoping to heare of reliefe, but ſtill none came, nor indeed no hopes of any, though Sir <hi>Arthur Loftus</hi> had there as gallant a Regiment as any is in <hi>Ireland,</hi> and had there been but reliefe ſent, the very noyſe of it would have raiſed the Rebels: They ſtormed ſeverall times and were repulſed, and ſeverall good ſucceſſes wee had in beating them off, but ſtill no reliefe came: And now we have the ſad experience of the delay thereof: for General <hi>Muſgrave</hi> and the Rebels have taken
+<hi>Bon<g ref="char:EOLhyphen"/>ratti,</hi> with all the Ordnance, Armes and Ammu<g ref="char:EOLhyphen"/>nition, ſlain Lieutenant Colonell
+<hi>Mac-Adams,</hi> and divers others, and ſo very much ſtrengthe<g ref="char:EOLhyphen"/>ned themſelves in that part of <hi>Munſter:</hi> And if ſo bee that reliefe come not ſpeedily to this lan<g ref="char:EOLhyphen"/>guiſhing Kingdome, wee ſhall be in danger to loſe more.</p>
+               <p>
+                  <pb n="6" facs="tcp:159807:5"/>The Rebels grow ſtrong, and are cruell and ve<g ref="char:EOLhyphen"/>ry barbarous where they conquer, wee had hopes that ſuch reliefe would have been ſent hither from England before this, as would have put us in a bet<g ref="char:EOLhyphen"/>ter poſture: but we hope you will not let us periſh for want of helpe, by the Warres that hath beene in England you may conceive part of the preſent miſeries of this Kingdome; but the rage of the inhumane and bloody Rebels here, are more grie<g ref="char:EOLhyphen"/>vous and horrible; God grant that ſome courſe may be taken for reliefe and helpe in time, leſt we periſh for want of helpe: and become a prey to the furie of theſe bloodie Villaines, who ſeeke our ut<g ref="char:EOLhyphen"/>ter deſtruction, and in the meane time wee deſire your prayers for the Proteſtants of this poore Kingdome, and amongſt them for</p>
+               <closer>
+                  <signed>Your obedient Servant R. S.</signed>
+                  <dateline>Dublin
+<date>the 20. July, 1646.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
